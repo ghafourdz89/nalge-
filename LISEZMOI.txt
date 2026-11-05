@@ -1,0 +1,40 @@
+NALGÉ — DOSSIER COMPLET
+=======================
+
+1-SITE-A-PUBLIER   Le site fini. Double-clique sur index.html pour le voir (internet nécessaire pour les polices).
+2-CODE-SOURCE      Le code (réservé aux développeurs, ou à demander à Claude).
+
+MODIFIER TES PRODUITS TOI-MÊME (sans Claude, sans code)
+=======================================================
+Le site contient une page d'administration. Une fois le site en ligne :
+1. Ouvre   ton-adresse.netlify.app/#admin
+2. Onglet "Produits" : Ajouter / Modifier / Supprimer un produit, ajouter ses photos
+   (depuis ton téléphone ou ton PC : elles sont réduites automatiquement).
+3. Onglet "Réglages" : numéro WhatsApp, e-mail, livraison, bandeau d'annonce,
+   et décoche "Mode démonstration" quand tes produits sont vrais.
+4. Bouton "Voir l'aperçu du site" pour contrôler le résultat avant de publier.
+5. Onglet "Publier" : "Télécharger le dossier à publier" -> un fichier ZIP.
+6. Décompresse le ZIP. Sur Netlify : ton site -> onglet "Deploys" -> glisse le dossier
+   décompressé dans la zone de dépôt. Le site est mis à jour avec la MÊME adresse.
+
+À savoir :
+- Tes modifications sont gardées dans ton navigateur (brouillon) jusqu'à la publication.
+  Utilise toujours le même navigateur et le même appareil pour préparer tes modifications.
+- Les clients ne voient rien tant que tu n'as pas fait l'étape 6.
+- Le ZIP contient tous tes produits : refais-le après chaque changement.
+- Garde une copie du dernier ZIP publié (c'est ta sauvegarde).
+- La page /#admin est visible par tout le monde, mais ne permet de rien changer
+  pour les clients : seule la publication du dossier sur ton compte Netlify compte.
+
+COMMENT METTRE LE SITE EN LIGNE LA PREMIÈRE FOIS (gratuit)
+1. Va sur https://app.netlify.com/drop et crée un compte.
+2. Glisse le dossier "1-SITE-A-PUBLIER" sur la page.
+3. Tu obtiens une adresse web publique. Teste-la depuis ton téléphone.
+4. Plus tard : achète un nom de domaine (ex. nalge.com) et relie-le dans les réglages de Netlify.
+
+AVANT DE VENDRE POUR DE BON
+- Remplacer les produits d'exemple par les vrais (admin -> "Supprimer tous les produits de démonstration").
+- Renseigner WhatsApp et e-mail (admin -> Réglages) pour activer l'envoi des commandes.
+- Renseigner livraison et retours, uniquement ce qui est vrai.
+- Faire vérifier les textes légaux (CGV, confidentialité, mentions légales).
+- Ne publier que de vrais avis clients.

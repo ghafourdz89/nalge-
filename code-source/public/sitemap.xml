@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Modèle : remplacez VOTRE-DOMAINE par l'adresse réelle du site avant publication. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://VOTRE-DOMAINE/</loc></url>
+  <url><loc>https://VOTRE-DOMAINE/#catalogue</loc></url>
+  <url><loc>https://VOTRE-DOMAINE/#a-propos</loc></url>
+  <url><loc>https://VOTRE-DOMAINE/#blog</loc></url>
+  <url><loc>https://VOTRE-DOMAINE/#contact</loc></url>
+</urlset>

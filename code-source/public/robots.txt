@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Remplacez par votre domaine une fois déployé :
+# Sitemap: https://VOTRE-DOMAINE/sitemap.xml
